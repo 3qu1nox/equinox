@@ -13,8 +13,9 @@
  <div id="buttons">
   <a href="https://www.tiktok.com/@877nox?_t=8nOzrsZ1tCS&_r=1">
     <button id="tiktok">Tiktok Account</button></a>
-  <a href="https://www.facebook.com/roland.contratista?mibextid=ZbWKwL">
-    <button id="facebook">Facebook Account</button></a>
+  <div id="buttons">
+<a href="https://www.tiktok.com/@877nox?_t=8nOzrsZ1tCS&_r=1"><button id="tiktok">Tiktok Account</button> </a>
+  <a href="https://www.facebook.com/roland.contratista?mibextid=ZbWKwL"><button id="facebook">Facebook Account</button></a>
 </div>
 </body>
 </html>
