@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: GhostWhite;
+}
+
+button {
+  background-color: GhostWhite;
+  font-weight: bold;
+}
